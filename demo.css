@@ -1,0 +1,22 @@
+h1{
+	color:red;
+	font-size:50px;
+	font-family:arial;
+	<style>
+/*This is a multi-line comment.
+  it can span multiple lines.
+*/
+h1{
+	color:green;
+}
+</style>
+
+}
+p{
+		color:lightblue;
+		background-color:yellow;
+		font-family:roman;
+		font-size:30px;
+		font-variant:small-caps jokerman;
+}
+
