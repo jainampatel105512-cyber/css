@@ -1,0 +1,8 @@
+body{
+	/*background-image:url("jai.jpg");
+	background-size:cover;/*cover=image corers
+	the emtire area*/
+	
+	background-image=image:url("jai.jpg");
+	background-attachment:fixed;
+}
